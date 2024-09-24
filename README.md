@@ -1,7 +1,7 @@
 # clinica
 ## Clinica Ginecológica(nome) : Clínica Serenidade
 
-![Menino Ney](CarlaDias (1080 x 400 px).png)
+<img src="[URL_da_Imagem](https://raw.githubusercontent.com/dev-ezequias/clinica/refs/heads/main/CarlaDias%20(1080%20x%20400%20px).png?token=GHSAT0AAAAAACX6TUOHYTSDVCZM4V6P45KQZXSWJOA)" alt="Banner da Clínica">
 ---
 ### Faixa etária: 
 + 18 anos
