@@ -1,7 +1,7 @@
 # clinica
 ## Clinica Ginecológica(nome) : Clínica Serenidade
 
-<img src="[URL_da_Imagem](https://raw.githubusercontent.com/dev-ezequias/clinica/refs/heads/main/CarlaDias%20(1080%20x%20400%20px).png?token=GHSAT0AAAAAACX6TUOHYTSDVCZM4V6P45KQZXSWJOA)" alt="Banner da Clínica">
+![Logo da Minha Empresa]([https://exemplo.com/logo.png](https://raw.githubusercontent.com/dev-ezequias/clinica/refs/heads/main/CarlaDias%20(1080%20x%20400%20px).png?token=GHSAT0AAAAAACX6TUOHYTSDVCZM4V6P45KQZXSWJOA))
 ---
 ### Faixa etária: 
 + 18 anos
