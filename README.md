@@ -1,7 +1,8 @@
 # clinica
-## Clinica Ginecológica(nome) : Clínica Serenidade
+## Clinica Ginecológica: Clínica Serenidade
 
-![Logo da Minha Empresa]([https://exemplo.com/logo.png](https://raw.githubusercontent.com/dev-ezequias/clinica/refs/heads/main/CarlaDias%20(1080%20x%20400%20px).png?token=GHSAT0AAAAAACX6TUOHYTSDVCZM4V6P45KQZXSWJOA))
+![Estela Duarte](https://github.com/user-attachments/assets/e3aa1bca-b8aa-4397-9314-c57d1f20f604)
+
 ---
 ### Faixa etária: 
 + 18 anos
