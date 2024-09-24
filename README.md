@@ -1,7 +1,6 @@
 # clinica
 ## Clinica Ginecológica: Clínica Serenidade
-
-![Estela Duarte](https://github.com/user-attachments/assets/e3aa1bca-b8aa-4397-9314-c57d1f20f604)
+![Estela Duarte (1)](https://github.com/user-attachments/assets/ef031935-8c6a-4944-9286-c51f1ee043c9)
 
 ---
 ### Faixa etária: 
