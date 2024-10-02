@@ -70,10 +70,12 @@ Número de visitantes e de onde vieram.
 ## Métricas
   - Número de Visitantes: Dados sobre o número de visitantes do site.
   - Origem dos Visitantes: Informações sobre a origem dos visitantes (como chegaram ao site).
-
+    
 
 ## Link para o protótipo do Site
 - Link: https://gamma.app/docs/Clinica-Serenidade-Saude-da-Mulher-lwa8ep793ggyuwl?mode=doc
 
+## Conclusão
+- Link: https://www.canva.com/design/DAGSbFHbsMU/9oxXNir_CFnm-rWU8KBNtw/view?utm_content=DAGSbFHbsMU&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
